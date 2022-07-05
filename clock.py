@@ -82,15 +82,5 @@ def indicatorS():
     t.left(180)
     t.forward(95)
     t.right(180 - minutes * 6)        
-   
-    
-    
-    # HW1 : continue drawing the seconds indicator
-    #  *     try another color for it
-    # HW2*: try another way of drawing
-    # HW3*: try to make 4 different functions
-    
-    
-    
     input("hitnenter to exit")
     
